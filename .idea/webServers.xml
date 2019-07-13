@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="506a2a8e-0449-44fa-a3ed-d598404352c7" name="CV2" url="http://115.156.214.170">
+        <fileTransfer host="115.156.214.170" port="22" rootFolder="/home/lwh" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f1167fe2-be2d-40a2-b7e2-197f02d5dad9" name="CV4" url="http://115.156.212.129">
+        <fileTransfer host="115.156.212.129" port="22" rootFolder="/home/lwh" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

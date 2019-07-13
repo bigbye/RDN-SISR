@@ -1,0 +1,8 @@
+please set fold like:
+-lr_train
+-hr_train
+
+-lr_eval
+-hr_eval
+
+-lr_test
